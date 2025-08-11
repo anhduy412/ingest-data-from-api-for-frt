@@ -1,16 +1,27 @@
-﻿Tên dịch bệnh,Thời gian xảy ra,Số ca mắc (cả nước),Số ca tử vong (cả nước)
-COVID‑19,Năm 2023,Gần 100.000 ca mắc,20 ca tử vong
-Sốt xuất huyết (dengue),Năm 2023,Hơn 172.000 ca mắc,43 ca tử vong
-Tay chân miệng,Năm 2023,Gần 181.000 ca mắc,31 ca tử vong
-Dại,Năm 2023,,82 ca tử vong
-Sốt phát ban nghi sởi,Năm 2023,393 ca mắc,
-Bạch hầu,Năm 2023,55 ca mắc,5 ca tử vong
-Đậu mùa khỉ (monkeypox),Năm 2023,121 ca mắc,6 ca tử vong
-COVID‑19,Đầu năm 2024,419 ca mắc,
-Sốt xuất huyết (Dengue),Cả năm 2024,114.906 ca mắc tích lũy,18 ca tử vong
-Tay chân miệng (TCM),Năm 2024,76000 ca mắc,
-Sởi,Năm 2024,2.104 ca mắc,
-Đậu mùa khỉ (Mpox),Năm 2024,113 ca mắc tại khu vực phía Nam,6 ca tử vong
-COVID‑19,1/1–31/7/2025,"148 ca mắc rải rác tại 27 tỉnh, thành phố ",Không có ca tử vong
-Measles (sởi),1/1–31/7/2025,Gần 40.000 ca nghi ngờ mắc sởi,5 ca tử vong liên quan đến sởi
-Dại (từ dữ liệu Bộ Y tế cảnh báo),1/1–31/7/2025,Không có số ca mắc cụ thể được công bố,84 ca tử vong từ đầu năm đến nay
+﻿year,disease,start_month,peak_month,end_month,provinces_affected
+2023,Sốt xuất huyết Dengue,Tăng từ tháng 5,Tháng 9-10,Giảm dần vào tháng 11-12,"Hà Nội, TP. Hồ Chí Minh và các tỉnh phía Nam."
+2023,Tay chân miệng,Tăng mạnh từ tháng 5,Tháng 6-8,Giảm dần vào cuối năm,Chủ yếu tại TP. Hồ Chí Minh và các tỉnh phía Nam.
+2023,COVID-19,Ghi nhận trong suốt năm,Không có đỉnh dịch rõ rệt do đã được kiểm soát,Tuyên bố không còn là tình trạng khẩn cấp toàn cầu vào tháng 5,"Toàn quốc, nhưng số ca mắc cao nhất tại Hà Nội và TP. Hồ Chí Minh."
+2023,Bạch hầu,Ghi nhận rải rác từ tháng 8,Tháng 8-9,,"Các tỉnh miền núi phía Bắc như Điện Biên, Hà Giang, và Nghệ An."
+2023,Đậu mùa khỉ,Ghi nhận từ tháng 9-10,Tháng 10-12,,"TP. Hồ Chí Minh và một số tỉnh lân cận như Bến Tre, Lâm Đồng."
+2023,Bệnh dại,Xảy ra quanh năm,Gia tăng vào mùa nóng (tháng 5-8),,"Toàn quốc, đặc biệt các tỉnh có ca tử vong cao như Gia Lai, Nghệ An."
+2023,Cúm mùa,Ghi nhận trong suốt năm,Tăng mạnh vào mùa đông - xuân (cuối năm 2023 đến đầu năm 2024),,"Toàn quốc, đặc biệt ở các thành phố lớn như Hà Nội, TP. Hồ Chí Minh."
+2023,Thủy đậu,Ghi nhận trong suốt năm,,,"Toàn quốc, nhưng có sự gia tăng đáng kể tại Hà Nội (ghi nhận khoảng 1.400 ca từ đầu năm đến tháng 7)."
+2023,Bệnh sởi,Ghi nhận rải rác,"Không có đỉnh dịch rõ rệt trong năm 2023, nhưng số ca tăng vọt vào cuối năm.",,"Ghi nhận rải rác ở nhiều địa phương như Hà Nội, TP. Hồ Chí Minh, Đồng Nai."
+2023,Bệnh sốt rét,Ghi nhận trong suốt năm,,,"Các tỉnh miền núi, khu vực có rừng, ven biển như Khánh Hòa và các vùng chưa được công nhận loại trừ sốt rét."
+2023,Bệnh tả,,,,"Các ca mắc chỉ là những trường hợp tản phát, chủ yếu ở các tỉnh ven biển, thường vào mùa hè."
+2023,Quai bị,,Tăng mạnh vào cuối mùa đông và đầu mùa xuân,,
+2024,Sốt xuất huyết,Quanh năm,Tháng 9-11,Giảm dần cuối năm,"Cả nước, tập trung nhiều ở các tỉnh phía Nam và một số tỉnh miền Bắc."
+2024,Tay chân miệng,Tăng từ tháng 5,Tháng 6-8,Giảm dần cuối năm,"Giảm so với 2023, dịch bệnh xảy ra rải rác trên cả nước."
+2024,Ho gà,Đầu năm 2024,,,"Các tỉnh, thành phố lớn."
+2024,Bạch hầu,Rải rác,,,Một số tỉnh miền núi
+2024,Bệnh dại,Quanh năm,Tháng 5-8 (mùa nóng),,"32 tỉnh, thành phố trên cả nước."
+2024,Đậu mùa khỉ (Mpox),Nửa đầu năm,,,TP. Hồ Chí Minh và một số tỉnh lân cận.
+2024,Cúm gia cầm,Rải rác trong năm,,,"Khánh Hòa (cúm A/H5), Tiền Giang (cúm A/H9N2)."
+2025,Sốt xuất huyết,Tháng 5,Tháng 7,,"TP. Hồ Chí Minh, Hà Nội, Đắk Lắk và các tỉnh phía Nam."
+2025,Tay chân miệng,Tháng 5,Tháng 5 - 7,,"TP. Hồ Chí Minh và các quận, huyện: Quận 1, 5, 7, 12, Bình Tân, Bình Chánh, Tân Bình, TP. Thủ Đức."
+2025,Sởi,Đầu năm 2025,Tháng 4,,"Toàn quốc, nhiều nhất ở các tỉnh phía Bắc và một số tỉnh thành lớn."
+2025,Cúm gia cầm,Rải rác trong năm,,,"Tây Ninh (ca mắc trên người), Tuyên Quang, Nghệ An, Long An, Tiền Giang, Cà Mau."
+2025,COVID-19,Quanh năm,Tháng 5,,"Hà Nội, Hải Phòng, TP. Hồ Chí Minh."
+2025,Bệnh dại,Quanh năm,,,"19 tỉnh, thành phố trên cả nước."
+2025,Ho gà,Đầu năm 2025,Tháng 5,,Một số địa phương trên cả nước.
